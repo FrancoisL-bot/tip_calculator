@@ -1,5 +1,5 @@
 body {
-    background: #333 url('cutlery.jpg') center center no-repeat;
+    background: #333 url('cutlery.jpg');
     background-size: cover;
     color: #eeeeee;
 }
